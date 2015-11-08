@@ -56,10 +56,11 @@ antigen bundle zsh-users/zsh-syntax-highlighting
 antigen bundle git
 antigen bundle unixorn/autoupdate-antigen.zshplugin
 antigen bundle horosgrisa/mysql-colorize
-antigen bundle sindresorhus/pretty-time-zsh
+#antigen bundle sindresorhus/pretty-time-zsh
 antigen bundle chrissicool/zsh-256color
 antigen-bundle Tarrasch/zsh-colors
-
+antigen bundle ssh-agent
+antigen bundle python
 
 #antigen theme
 #antigen theme 
