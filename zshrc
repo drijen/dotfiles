@@ -61,7 +61,7 @@ antigen bundle chrissicool/zsh-256color
 antigen-bundle Tarrasch/zsh-colors
 antigen bundle ssh-agent
 antigen bundle python
-anitgen bundle colored-man-pages
+antigen bundle colored-man-pages
 
 #antigen theme
 #antigen theme 
